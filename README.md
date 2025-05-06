@@ -1,3 +1,6 @@
+GitDiagram:
+![image](https://github.com/user-attachments/assets/8386876f-318c-4fcf-b9ae-3850d99f72d0)
+
 # MySQl-Proj
 📷 Screenshots of Expected Output
 tables
